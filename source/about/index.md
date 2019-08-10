@@ -14,23 +14,24 @@ sidebar: custom
   experience: '4年',
   address: '广东省广州市',
   github: 'https://github.com/jianglove7',
-  blog: 'http://www.cofess.com',
+  blog: 'http://www.xineasy.com',
   email: '344898012@qq.com',
   description: '致力于网站开发和用户交互体验',
 
   skills: [
-    ['Html', 'Javascript', 'jQuery', 'CSS', 'ES6', 'Node'],
+    ['Html', 'Javascript', 'CSS', 'ES6', 'Node'],
+    ['Vue'],
+    ['jQuery','Lodash'],
+    ['Element','Layui','Bootstrap','Mint'],
     ['Webpack', 'Babel'],
     ['Sass'],
     ['Git', 'SVN'],
-    ['Vue','React'],
-    ['WordPress', 'thinkPHP'],
-    ['Photoshop']
+    ['PHP','Mysql','WordPress', 'thinkPHP'],
   ],
 
   devTools: [
     ['Sublime Text', 'Visual Studio Code'],
-    ['Chrome DevTools', 'Fiddler'],
+    ['Chrome DevTools'],
     ['SourceTree', 'TortoiseSVN'],
     ['Navicat', 'Wamp'],
     ['PuTTY'],
