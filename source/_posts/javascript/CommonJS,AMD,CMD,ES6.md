@@ -1,6 +1,6 @@
 ---
 title: CommonJS,AMD,CMD,ES6的区别
-date: 2019-08-14 14:14:11
+date: 2019-08-19 14:14:11
 tags: 
 - CommonJS
 - AMD
